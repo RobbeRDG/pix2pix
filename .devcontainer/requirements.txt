@@ -1,0 +1,10 @@
+notebook
+matplotlib
+scikit-learn
+torch 
+torchvision 
+torchaudio
+pandas
+tensorboard
+albumentations
+tqdm
